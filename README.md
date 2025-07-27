@@ -34,7 +34,8 @@ This is a simple **terminal-based medication reminder application** written in J
 - Support editing and deleting medications.
 
 ---
-
+⚠️ Privacy Note:
+This is a local Java application that stores user-input medication reminders in a CSV file on the user's machine. No data is sent online or stored externally. Use at your own discretion.
 ## ⚙️ How to use 
 ```bash
 
